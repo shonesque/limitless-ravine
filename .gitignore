@@ -1,9 +1,3 @@
-src/components
-src/theme
-src/menu
-src/extensions
-src/less
-src/less/adapt.less
 build
 bower_components
 node_modules

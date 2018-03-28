@@ -1,0 +1,28 @@
+{
+  "name": "adapt-contrib-languagePicker",
+  "repository": "git://github.com/adaptlearning/adapt-contrib-languagePicker.git",
+  "framework": ">=3",
+  "version": "2.0.0",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-languagePicker",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues",
+  "displayName": "Language Picker",
+  "extension": "languagePicker",
+  "description": "An extension to select a Language",
+  "main": "/js/adapt-languagePicker.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_languagePicker",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "cc3fdc15163575676ff6f5e7a8adbe32dcfb71b9"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-languagePicker.git",
+  "_target": ">=2",
+  "_originalSource": "adapt-contrib-languagePicker",
+  "_direct": true
+}
