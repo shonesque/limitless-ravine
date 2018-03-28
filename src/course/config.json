@@ -8,7 +8,7 @@
         "_console": true
     },
     "_accessibility": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_isTextProcessorEnabled": true,
         "_isSkipNavigationEnabled": true,
         "_ariaLevels": {
@@ -31,7 +31,7 @@
         "_requireAssessmentCompleted": true
     },
     "_spoor": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_tracking": {
             "_shouldSubmitScore": false,
             "_shouldStoreResponses": false,
