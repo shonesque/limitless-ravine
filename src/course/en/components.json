@@ -8,10 +8,270 @@
 		"_layout": "full",
 		"title": "Introduction",
 		"displayTitle": "",
-		"body": "Adapt allows you to combine text and graphic components on the scrolling page to create rich and varied learning experiences. In addition, a wide range of interactive components are also available to help encourage deeper engagement with the material.<br><br>These presentation components can be structured in any way to help you create learning experiences that meet the needs of your learners.",
-		"instruction": "Scroll down to see what presentation components are available as part of the Version 2.0 core bundle.",
+		"body": "We are going to share our vision with you",
+		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
-	}	
+	},	
+	{
+		"_id": "c-10",
+		"_parentId": "b-10",
+		"_type": "component",
+		"_component": "hotgraphic",
+		"_classes": "",
+		"_layout": "full",
+		"_comment": "setCompletionOn = inview | allItems",
+		"_setCompletionOn": "allItems",
+		"_canCycleThroughPagination": false,
+		"_hidePagination": false,
+		"_useGraphicsAsPins": false,
+		"title": "Hot Graphic",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"mobileInstruction": "",
+		"_graphic": {
+			"src": "course/en/images/full_width.jpg",
+			"alt": "Placeholder graphic."
+		},
+		"_items": [
+			{
+				"title": "Connoisseurs & Explorers",
+				"body": "Yet, every day we are searching for the “unknown knows. <br>Through previous experience or self taught, we know what we’re doing, be it e-learning courses, stunning visuals or the subtle art or saying “no”, encompassed with stellar stakeholder management.",
+				"_graphic": {
+					"src": "course/en/images/single_width_small.jpg",
+					"alt": "Placeholder graphic.",
+					"_classes": ""
+				},
+				"strapline": "Connoisseurs & Explorers",
+				"_classes": "",
+				"_top": 42,
+				"_left": 8.5
+			},
+			{
+				"title": "Akin & Diverse",
+				"body": "We don’t challenge for the challenge, we challenge for the goal.<br>We’re structurally creative and we’re looking at the big picture through the “small pictures”. We speak to people in their language and hear them in ours. We’re early risers and night owls.",
+				"_graphic": {
+					"src": "course/en/images/single_width_small.jpg",
+					"alt": "Placeholder graphic.",
+					"_classes": ""
+				},
+				"strapline": "Akin & Diverse",
+				"_classes": "",
+				"_top": 62,
+				"_left": 26.5
+			},
+			{
+				"title": "Agile & Steady mindset",
+				"body": "We poker plan but leave poker faces aside.<br>We have the backlog in the back of our minds and we don’t just go with the waterfall flow.  We create straight yellow brick roads  from client briefs to finished products.",
+				"_graphic": {
+					"src": "course/en/images/single_width_small.jpg",
+					"alt": "Placeholder graphic.",
+					"_classes": ""
+				},
+				"strapline": "Agile & Steady mindset",
+				"_classes": "",
+				"_top": 62,
+				"_left": 49
+			},
+			{
+				"title": "Freethinkers & Believers",
+				"body": "We are not brain surgeons but we believe in stretching neurons.<br>We defy numbness and overcome our fears, we embrace our mistakes and take them with a grain of salt. We believe that the 8 hour work day is not just filled with minutes and seconds but with ideas and play.",
+				"_graphic": {
+					"src": "course/en/images/single_width_small.jpg",
+					"alt": "Placeholder graphic.",
+					"_classes": ""
+				},
+				"strapline": "Freethinkers & Believers",
+				"_classes": "",
+				"_top": 83,
+				"_left": 24
+			}
+		],
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-05",
+		"_parentId": "b-15",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "Now that you know what our vision is, it’s time to meet the teem!",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},	
+	{
+		"_id": "c-72",
+		"_parentId": "b-15",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-72",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Aura.png",
+			"small": "course/en/images/Aura.png",
+			"alt": "",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-05",
+		"_parentId": "b-15",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-72",
+		"_parentId": "b-20",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-72",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Alexandra.png",
+			"small": "course/en/images/Alexandra.png",
+			"alt": "",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-05",
+		"_parentId": "b-20",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "alexandra-presentation",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "I am a young, enthusiastic professional in search of discovering new opportunities for career development. I am constantly improving my skills, learning new techniques and tools for creating the best training there is. My belief is that e-learning is the future of education, and I plan to be ready for it when it takes over.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-72",
+		"_parentId": "b-25",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-72",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Alin.png",
+			"small": "course/en/images/Alin.png",
+			"alt": "",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-05",
+		"_parentId": "b-25",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.  ",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-72",
+		"_parentId": "b-30",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-72",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Dan.png",
+			"small": "course/en/images/Dan.png",
+			"alt": "",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-05",
+		"_parentId": "b-30",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "center",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-72",
+		"_parentId": "b-35",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-72",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Cosmin.png",
+			"small": "course/en/images/Cosmin.png",
+			"alt": "Placeholder graphic.",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-05",
+		"_parentId": "b-35",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+	
 ]
