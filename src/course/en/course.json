@@ -115,10 +115,10 @@
     },
     "_id": "course",
     "_type": "course",
-    "title": "Adapt Version 3.0 demonstration",
-    "displayTitle": "Adapt Version 3.0 demonstration",
-    "description": "A sample course demonstrating the capabilities of the Adapt Framework v3.0",
-    "body": "Hello {{_globals._learnerInfo.firstname}} - welcome to the demonstration build for version 3.0 of the Adapt framework.<br><br>This version of the framework drops support for legacy browsers (IE8/9/10), giving us a solid platform on which to start building for the future. Find out more <a href='https://www.adaptlearning.org/index.php/adapt-framework/' target='_blank'>here</a>.",
+    "title": "Digital Learning Artists",
+    "displayTitle": "Digital Learning Artists",
+    "description": "A sample course demonstrating the capabilities of our team using an experimental open source framework",
+    "body": "Hello {{_globals._learnerInfo.firstname}} and welcome to our team presentation project. We hope you'll enjoy your time!",
     "_buttons": {
         "_submit": {
             "buttonText": "Submit",
@@ -144,7 +144,7 @@
         "remainingAttemptText": "final attempt",
         "disabledAriaLabel": "This button is disabled at the moment."
     },
-    "_latestTrackingId": 19,
+    "_latestTrackingId": 26,
     "_pageLevelProgress": {
         "_isEnabled": true,
         "_showPageCompletion": false,

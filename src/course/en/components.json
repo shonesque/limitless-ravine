@@ -8,8 +8,8 @@
 		"_layout": "full",
 		"title": "Introduction",
 		"displayTitle": "",
-		"body": "We are going to share our vision with you",
-		"instruction": "",
+		"body": "Hello {{_globals._learnerInfo.firstname}} and welcome to our team presentation project. We hope you'll enjoy your time!<br>First, we are going to share our vision with you",
+		"instruction": "Click each icon to find out more",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
@@ -32,8 +32,8 @@
 		"instruction": "",
 		"mobileInstruction": "",
 		"_graphic": {
-			"src": "course/en/images/full_width.jpg",
-			"alt": "Placeholder graphic."
+			"src": "course/en/images/White_900x422.png",
+			"alt": ""
 		},
 		"_items": [
 			{
@@ -46,8 +46,8 @@
 				},
 				"strapline": "Connoisseurs & Explorers",
 				"_classes": "",
-				"_top": 42,
-				"_left": 8.5
+				"_top": 50,
+				"_left": 15
 			},
 			{
 				"title": "Akin & Diverse",
@@ -59,8 +59,8 @@
 				},
 				"strapline": "Akin & Diverse",
 				"_classes": "",
-				"_top": 62,
-				"_left": 26.5
+				"_top": 50,
+				"_left": 35
 			},
 			{
 				"title": "Agile & Steady mindset",
@@ -72,8 +72,8 @@
 				},
 				"strapline": "Agile & Steady mindset",
 				"_classes": "",
-				"_top": 62,
-				"_left": 49
+				"_top": 50,
+				"_left": 55
 			},
 			{
 				"title": "Freethinkers & Believers",
@@ -85,8 +85,8 @@
 				},
 				"strapline": "Freethinkers & Believers",
 				"_classes": "",
-				"_top": 83,
-				"_left": 24
+				"_top": 50,
+				"_left": 75
 			}
 		],
 		"_pageLevelProgress": {
@@ -94,13 +94,13 @@
 		}
 	},
 	{
-		"_id": "c-05",
+		"_id": "c-101",
 		"_parentId": "b-15",
 		"_type": "component",
 		"_component": "text",
 		"_classes": "",
 		"_layout": "full",
-		"title": "Introduction",
+		"title": "Meet the team",
 		"displayTitle": "",
 		"body": "Now that you know what our vision is, it’s time to meet the teem!",
 		"instruction": "",
@@ -109,145 +109,145 @@
 		}
 	},	
 	{
-		"_id": "c-72",
-		"_parentId": "b-15",
+		"_id": "c-77",
+		"_parentId": "b-20",
 		"_type": "component",
 		"_component": "graphic",
-		"_classes": "",
-		"_layout": "full",
-		"title": "c-72",
+		"_classes": "team",
+		"_layout": "left",
+		"title": "c-77",
 		"displayTitle": "",
 		"body": "",
 		"instruction": "",
 		"_graphic": {
-			"large": "course/en/images/Aura.png",
-			"small": "course/en/images/Aura.png",
+			"large": "course/en/images/aura_v2.png",
+			"small": "course/en/images/aura_v2.png",
 			"alt": "",
 			"attribution": ""
 		}
 	},	
 	{
-		"_id": "c-05",
-		"_parentId": "b-15",
+		"_id": "c-102",
+		"_parentId": "b-20",
 		"_type": "component",
 		"_component": "text",
-		"_classes": "",
-		"_layout": "full",
-		"title": "Introduction",
+		"_classes": "white aura-presentation",
+		"_layout": "right",
+		"title": "Aura",
 		"displayTitle": "",
-		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.<br><br><a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'><i class='fab fa-linkedin-in'></i></a>    <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'><i class='fas fa-camera-retro'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
 	},
 	{
-		"_id": "c-72",
-		"_parentId": "b-20",
+		"_id": "c-73",
+		"_parentId": "b-25",
 		"_type": "component",
 		"_component": "graphic",
-		"_classes": "",
-		"_layout": "full",
-		"title": "c-72",
+		"_classes": "team picture-right",
+		"_layout": "right",
+		"title": "c-73",
 		"displayTitle": "",
 		"body": "",
 		"instruction": "",
 		"_graphic": {
-			"large": "course/en/images/Alexandra.png",
-			"small": "course/en/images/Alexandra.png",
+			"large": "course/en/images/Alexandra_rotund.png",
+			"small": "course/en/images/Alexandra_rotund.png",
 			"alt": "",
 			"attribution": ""
 		}
 	},	
 	{
-		"_id": "c-05",
-		"_parentId": "b-20",
+		"_id": "c-103",
+		"_parentId": "b-25",
 		"_type": "component",
 		"_component": "text",
 		"_classes": "alexandra-presentation",
-		"_layout": "full",
-		"title": "Introduction",
+		"_layout": "left",
+		"title": "Alexandra",
 		"displayTitle": "",
-		"body": "I am a young, enthusiastic professional in search of discovering new opportunities for career development. I am constantly improving my skills, learning new techniques and tools for creating the best training there is. My belief is that e-learning is the future of education, and I plan to be ready for it when it takes over.",
+		"body": "I am a young, enthusiastic professional in search of discovering new opportunities for career development. I am constantly improving my skills, learning new techniques and tools for creating the best training there is. My belief is that e-learning is the future of education, and I plan to be ready for it when it takes over.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
 	},
 	{
-		"_id": "c-72",
-		"_parentId": "b-25",
+		"_id": "c-74",
+		"_parentId": "b-30",
 		"_type": "component",
 		"_component": "graphic",
-		"_classes": "",
-		"_layout": "full",
-		"title": "c-72",
+		"_classes": "team",
+		"_layout": "left",
+		"title": "c-74",
 		"displayTitle": "",
 		"body": "",
 		"instruction": "",
 		"_graphic": {
-			"large": "course/en/images/Alin.png",
-			"small": "course/en/images/Alin.png",
+			"large": "course/en/images/Alin Andronache photo.png",
+			"small": "course/en/images/Alin Andronache photo.png",
 			"alt": "",
 			"attribution": ""
 		}
 	},	
 	{
-		"_id": "c-05",
-		"_parentId": "b-25",
+		"_id": "c-104",
+		"_parentId": "b-30",
 		"_type": "component",
 		"_component": "text",
-		"_classes": "",
-		"_layout": "full",
-		"title": "Introduction",
+		"_classes": "white alin-presentation",
+		"_layout": "right",
+		"title": "Alin",
 		"displayTitle": "",
-		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.  ",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
 	},
 	{
-		"_id": "c-72",
-		"_parentId": "b-30",
-		"_type": "component",
-		"_component": "graphic",
-		"_classes": "",
-		"_layout": "full",
-		"title": "c-72",
-		"displayTitle": "",
-		"body": "",
-		"instruction": "",
-		"_graphic": {
-			"large": "course/en/images/Dan.png",
-			"small": "course/en/images/Dan.png",
-			"alt": "",
-			"attribution": ""
-		}
-	},	
-	{
-		"_id": "c-05",
-		"_parentId": "b-30",
-		"_type": "component",
-		"_component": "text",
-		"_classes": "",
-		"_layout": "center",
-		"title": "Introduction",
-		"displayTitle": "",
-		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.",
-		"instruction": "",
-		"_pageLevelProgress": {
-			"_isEnabled": true
-		}
-	},
-	{
-		"_id": "c-72",
+		"_id": "c-76",
 		"_parentId": "b-35",
 		"_type": "component",
 		"_component": "graphic",
-		"_classes": "",
-		"_layout": "full",
-		"title": "c-72",
+		"_classes": "team picture-right",
+		"_layout": "right",
+		"title": "c-76",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/Dan_Calinescu (1).png",
+			"small": "course/en/images/Dan_Calinescu (1).png",
+			"alt": "Placeholder graphic.",
+			"attribution": ""
+		}
+	},	
+	{
+		"_id": "c-109",
+		"_parentId": "b-35",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "dan-presentation",
+		"_layout": "left",
+		"title": "Dan",
+		"displayTitle": "",
+		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-200",
+		"_parentId": "b-40",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "team",
+		"_layout": "left",
+		"title": "c-200",
 		"displayTitle": "",
 		"body": "",
 		"instruction": "",
@@ -259,15 +259,15 @@
 		}
 	},	
 	{
-		"_id": "c-05",
-		"_parentId": "b-35",
+		"_id": "c-106",
+		"_parentId": "b-40",
 		"_type": "component",
 		"_component": "text",
-		"_classes": "",
-		"_layout": "full",
-		"title": "Introduction",
+		"_classes": "white cosmin-presentation",
+		"_layout": "right",
+		"title": "Cosmin",
 		"displayTitle": "",
-		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.",
+		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.<br><br>You can also check out my <a href='course/en/images/Portfolio_Cosmin.pdf' target='_blank'>portfolio</a> if you want to find out more about my work.",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true

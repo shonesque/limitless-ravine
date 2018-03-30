@@ -31,7 +31,7 @@
         "_requireAssessmentCompleted": true
     },
     "_spoor": {
-        "_isEnabled": false,
+        "_isEnabled": true,
         "_tracking": {
             "_shouldSubmitScore": false,
             "_shouldStoreResponses": false,
