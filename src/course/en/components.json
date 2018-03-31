@@ -8,12 +8,12 @@
 		"_layout": "full",
 		"title": "Introduction",
 		"displayTitle": "",
-		"body": "Hello {{_globals._learnerInfo.firstname}} and welcome to our team presentation project. We hope you'll enjoy your time!<br>First, we are going to share our vision with you",
-		"instruction": "Click each icon to find out more",
+		"body": "Hello, {{_globals._learnerInfo.firstname}}, and welcome to our team presentation project. We hope you'll enjoy your time!<br>First, we are going to share our vision with you.",
+		"instruction": "Click each icon to find out more.",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
-	},	
+	},
 	{
 		"_id": "c-10",
 		"_parentId": "b-10",
@@ -26,7 +26,7 @@
 		"_canCycleThroughPagination": false,
 		"_hidePagination": false,
 		"_useGraphicsAsPins": false,
-		"title": "Hot Graphic",
+		"title": "Our vision",
 		"displayTitle": "",
 		"body": "",
 		"instruction": "",
@@ -38,9 +38,9 @@
 		"_items": [
 			{
 				"title": "Connoisseurs & Explorers",
-				"body": "Yet, every day we are searching for the “unknown knows. <br>Through previous experience or self taught, we know what we’re doing, be it e-learning courses, stunning visuals or the subtle art or saying “no”, encompassed with stellar stakeholder management.",
+				"body": "<span>Through previous experience or self taught, we know what we’re doing, be it e-learning courses, stunning visuals or the subtle art or saying “no”, encompassed with stellar stakeholder management.</span><br><br>Yet, every day we are searching for the “unknown knowns”.",
 				"_graphic": {
-					"src": "course/en/images/single_width_small.jpg",
+					"src": "course/en/images/Explorers-patrat.png",
 					"alt": "Placeholder graphic.",
 					"_classes": ""
 				},
@@ -51,9 +51,9 @@
 			},
 			{
 				"title": "Akin & Diverse",
-				"body": "We don’t challenge for the challenge, we challenge for the goal.<br>We’re structurally creative and we’re looking at the big picture through the “small pictures”. We speak to people in their language and hear them in ours. We’re early risers and night owls.",
+				"body": "<span>We’re structurally creative and we’re looking at the big picture through the “small pictures”. We speak to people in their language and hear them in ours. We’re early risers and night owls.</span><br><br>We don’t challenge for the challenge, we challenge for the goal.",
 				"_graphic": {
-					"src": "course/en/images/single_width_small.jpg",
+					"src": "course/en/images/Divers-patrat.png",
 					"alt": "Placeholder graphic.",
 					"_classes": ""
 				},
@@ -64,9 +64,9 @@
 			},
 			{
 				"title": "Agile & Steady mindset",
-				"body": "We poker plan but leave poker faces aside.<br>We have the backlog in the back of our minds and we don’t just go with the waterfall flow.  We create straight yellow brick roads  from client briefs to finished products.",
+				"body": "<span>We have the backlog in the back of our minds and we don’t just go with the waterfall flow.  We create straight yellow brick roads  from client briefs to finished products.</span><br><br>We poker plan but leave poker faces aside.",
 				"_graphic": {
-					"src": "course/en/images/single_width_small.jpg",
+					"src": "course/en/images/Agile_Patrat.png",
 					"alt": "Placeholder graphic.",
 					"_classes": ""
 				},
@@ -77,9 +77,9 @@
 			},
 			{
 				"title": "Freethinkers & Believers",
-				"body": "We are not brain surgeons but we believe in stretching neurons.<br>We defy numbness and overcome our fears, we embrace our mistakes and take them with a grain of salt. We believe that the 8 hour work day is not just filled with minutes and seconds but with ideas and play.",
+				"body": "<span>We defy numbness and overcome our fears, we embrace our mistakes and take them with a grain of salt. We believe that the 8 hour work day is not just filled with minutes and seconds but with ideas and play.</span><br><br>We are not brain surgeons but we believe in stretching neurons.",
 				"_graphic": {
-					"src": "course/en/images/single_width_small.jpg",
+					"src": "course/en/images/Belivers_Patrat.png",
 					"alt": "Placeholder graphic.",
 					"_classes": ""
 				},
@@ -98,11 +98,11 @@
 		"_parentId": "b-15",
 		"_type": "component",
 		"_component": "text",
-		"_classes": "",
+		"_classes": "meet-the-team",
 		"_layout": "full",
 		"title": "Meet the team",
 		"displayTitle": "",
-		"body": "Now that you know what our vision is, it’s time to meet the teem!",
+		"body": "Now that you know what our vision is, it’s time to meet the team!",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -134,8 +134,8 @@
 		"_classes": "white aura-presentation",
 		"_layout": "right",
 		"title": "Aura",
-		"displayTitle": "",
-		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.<br><br><a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'><i class='fab fa-linkedin-in'></i></a>    <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'><i class='fas fa-camera-retro'></i></a>",
+		"displayTitle": "Aura Radu Dinica",
+		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs.<br>Skilled in mentoring and enabling people in diverse teams, focused on collaborative development.<br>Passion to do the right things and do things right.<br><br><a href='https://www.linkedin.com/in/auraradu/' target='_blank'><i class='purple-icon fab fa-linkedin-in'></i></a>    <a href='course/en/images/Aura Radu Dinica.pdf' target='_blank'><i class='purple-icon fa fa-download'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -167,8 +167,8 @@
 		"_classes": "alexandra-presentation",
 		"_layout": "left",
 		"title": "Alexandra",
-		"displayTitle": "",
-		"body": "I am a young, enthusiastic professional in search of discovering new opportunities for career development. I am constantly improving my skills, learning new techniques and tools for creating the best training there is. My belief is that e-learning is the future of education, and I plan to be ready for it when it takes over.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
+		"displayTitle": "Alexandra Margu",
+		"body": "I am a young, enthusiastic professional in search of discovering new opportunities for career development. I am constantly improving my skills, learning new techniques and tools for creating the best training there is. My belief is that e-learning is the future of education, and I plan to be ready for it when it takes over.<br><br><a href='https://www.linkedin.com/in/alexandramargu/' target='_blank'><i class='white-icon fab fa-linkedin-in'></i></a>    <a href='course/en/images/Alexandra Margu.pdf' target='_blank'><i class='white-icon fa fa-download'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -200,8 +200,8 @@
 		"_classes": "white alin-presentation",
 		"_layout": "right",
 		"title": "Alin",
-		"displayTitle": "",
-		"body": "Senior professional with 12+ years of experience in leading competence development & corporate communication projects in global environments, with a track record of cross-functional and multi-cultural programs. Skilled in mentoring and enabling people in diverse teams, focused on collaborative development. Passion to do the right things and do things right.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
+		"displayTitle": "Alin Andronache",
+		"body": "Above anything else, I value myself for the capacity to keep an open mind, be adaptive and continuously seek self-improvement. These are also the values I look for in others, as well as in the working environment I choose to be a part of.<br><br><a href='https://www.linkedin.com/in/alin-andronache-785bb3a4/' target='_blank'><i class='purple-icon fab fa-linkedin-in'></i></a>    <a href='course/en/images/Alin Andronache.pdf' target='_blank'><i class='purple-icon fa fa-download'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -233,8 +233,8 @@
 		"_classes": "dan-presentation",
 		"_layout": "left",
 		"title": "Dan",
-		"displayTitle": "",
-		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.",
+		"displayTitle": "Dan Calinescu",
+		"body": "Hey! I am Dan, Designer living in Bucharest. Tech savvy and always in love with the beautiful.10 years of experience in the always changing world of IT. Snowboarder, swimmer and sneakers aficionado.<br><br><a href='https://www.linkedin.com/in/dgcalinescu/' target='_blank'><i class='white-icon fab fa-linkedin-in'></i></a>    <a href='course/en/images/Dan Calinescu.pdf' target='_blank'><i class='white-icon fa fa-download'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -266,8 +266,8 @@
 		"_classes": "white cosmin-presentation",
 		"_layout": "right",
 		"title": "Cosmin",
-		"displayTitle": "",
-		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.<br><br>Follow me on <a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'>LinkedIn</a> or download my <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'>Résumé</a> to find out more details on my career path.<br><br>You can also check out my <a href='course/en/images/Portfolio_Cosmin.pdf' target='_blank'>portfolio</a> if you want to find out more about my work.",
+		"displayTitle": "Cosmin Simion",
+		"body": "What’s up, I’m Cosmin. I’m an Instructional Designer currently living in Bucharest, Romania. I am a fan of technology, design, and programming. I’m also highly interested in entrepreneurship and gaming.<br><br><a href='https://www.linkedin.com/in/cosmin-simion-732ba379/' target='_blank'><i class='purple-icon fab fa-linkedin-in'></i></a>    <a href='course/en/images/Cosmin Simion`s résumé.pdf' target='_blank'><i class='purple-icon fa fa-download'></i></a>",
 		"instruction": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
